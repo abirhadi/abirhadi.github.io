@@ -26,13 +26,13 @@ export const courses: {
     code: "ASE 220",
     title: "Full-Stack Application Development",
     description:
-      "Design and implement full-stack applications using modern technologies and framworks.",
+      "Designing and implementing full-stack applications using modern technologies and framworks.",
   },
   {
     code: "CSC 392",
     title: "Topics: Natural Language Processing",
     description:
-      "Understanding the evaluation of natural language processing methods.",
+      "Understanding the evolution of natural language processing methods.",
   },
 ];
 // Add semester only when confirmed, e.g. semester: 'Fall 2026'. Descriptions summarize instructional areas.
