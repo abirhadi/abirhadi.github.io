@@ -1,0 +1,12 @@
+node_modules/
+dist/
+github-pages/
+artifacts/
+.prerender/
+.tools/
+.npm-cache/
+coverage/
+*.log
+.env*
+!.env.example
+.DS_Store
