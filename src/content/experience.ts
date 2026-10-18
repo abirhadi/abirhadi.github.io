@@ -32,4 +32,10 @@ export const experience = [
     institution: profile.previousEngineering.institution,
     description: "Software research and development.",
   },
+  {
+    period: "2018 - 2018",
+    title: "Research Assistant",
+    institution: "AIUB",
+    description: "Software research and development.",
+  },
 ];

@@ -26,7 +26,7 @@ export const courses: {
     code: "ASE 220",
     title: "Full-Stack Application Development",
     description:
-      "Connecting mathematical thinking with computational tools and programming.",
+      "Design and implement full-stack applications using modern technologies and framworks.",
   },
   {
     code: "CSC 392",
