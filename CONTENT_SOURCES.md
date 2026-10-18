@@ -2,7 +2,7 @@
 
 Checked October 18, 2026. The supplied brief is the source for education, previous experience, research themes and ambition, appointment year, course list, and LinkedIn URL. No claims about performance, awards, funding, student outcomes, or completed formally verified lifelong intelligence are made.
 
-- NKU faculty profile: https://www.nku.edu/our-people/profiles/informatics/sca/abir-hadi.html — institutional affiliation, faculty role, and public email `hadia1@nku.edu`.
+- NKU faculty profile: https://www.nku.edu/our-people/profiles/informatics/sca/abir-hadi.html — institutional affiliation and faculty role. The institutional email address is omitted at the user's request.
 - Supplied professional profile: https://www.linkedin.com/in/abirmhadi — included as explicitly configured by the user.
 - Existing personal domain: https://www.abirhadi.phd — retrieved during the publication update; its Scholar link matches the profile subsequently confirmed by the user.
 

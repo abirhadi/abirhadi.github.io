@@ -22,7 +22,6 @@ export const profile = {
     title: "R&D Software Engineer",
     institution: "Nerddevs Ltd.",
   },
-  email: "hadia1@nku.edu",
   canonicalUrl: "https://abirhadi.phd/",
   headline: {
     opening: "Toward verifiable",

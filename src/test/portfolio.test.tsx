@@ -111,9 +111,7 @@ describe("Academic portfolio visitor workflows", () => {
     expect(
       screen.queryByRole("heading", { name: /News & updates/ }),
     ).toBeNull();
-    expect(
-      document.querySelector('a[href^="mailto:"]')?.getAttribute("href"),
-    ).toBe(`mailto:${profile.email}`);
+    expect(document.querySelector('a[href^="mailto:"]')).toBeNull();
   });
   it("suppresses citation export when metadata is incomplete", () => {
     expect(

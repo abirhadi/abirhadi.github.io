@@ -1077,19 +1077,6 @@ h2 em {
   font-size: 14px;
   line-height: 1.9;
 }
-.contact-email {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  font-size: 23px;
-  letter-spacing: -0.6px;
-  border-bottom: 1px solid var(--ink);
-  padding-block: 20px 13px;
-  margin-top: 10px;
-}
-.contact-email:hover {
-  color: var(--accent);
-}
 .contact-links {
   display: flex;
   align-items: center;
@@ -1718,9 +1705,6 @@ h2 em {
   }
   .contact-grid h2 {
     font-size: 36px;
-  }
-  .contact-email {
-    font-size: 25px;
   }
   .contact-grid p {
     font-size: 13px;

@@ -481,10 +481,6 @@ export default function App() {
               </h2>
               <div>
                 <p>{profile.contactText}</p>
-                <a className="contact-email" href={`mailto:${profile.email}`}>
-                  {profile.email}
-                  <ArrowUpRight size={25} />
-                </a>
               </div>
             </div>
             <div className="contact-links">

@@ -20,7 +20,6 @@ export function render() {
     url: profile.canonicalUrl,
     jobTitle: profile.appointment,
     description: profile.description,
-    email: `mailto:${profile.email}`,
     worksFor: { "@type": "CollegeOrUniversity", name: profile.institution },
     alumniOf: {
       "@type": "CollegeOrUniversity",

@@ -32,7 +32,7 @@ All academic content is in strongly typed files under `src/content/`:
 
 | File                       | Edit here                                                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `profile.ts`               | Identity, affiliation, email, biography, research vision, teaching philosophy, canonical URL, portrait, CV  |
+| `profile.ts`               | Identity, affiliation, biography, research vision, teaching philosophy, canonical URL, portrait, CV         |
 | `research.ts`              | Three research directions, descriptions, keywords, guiding questions                                        |
 | `publications.ts`          | Papers, ordered as displayed, authors, type, year, venue, DOI, PDF, topics, verification status, provenance |
 | `publicationCategories.ts` | Google Scholar profile URL, research-interest filter labels, publication types, date checked                |
